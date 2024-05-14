@@ -17,6 +17,7 @@ public class Symulacja {
         frame.setSize(boardWidth, boardHeight+100);
         frame.setResizable(false);
         frame.setLayout(new BorderLayout());
+        frame.setVisible(true;)
         
         initComponents();
     }
